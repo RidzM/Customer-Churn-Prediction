@@ -103,5 +103,5 @@ Business Decision Support
 
 ---
 
-## 👤 Author
-Student Project — AI/ML Course
+## Author
+Student Project — Riddhi Mehta
